@@ -1,0 +1,26 @@
+{
+  "test_reverse": {
+    "name": "Inversion",
+    "points": 1
+  },
+  "test_delete_stack": {
+    "name": "Delete stack",
+    "points": 1
+  },
+  "test_delete_queue": {
+    "name": "Delete queue",
+    "points": 1
+  },
+  "test_sort_stack": {
+    "name": "Sort stack",
+    "points": 1
+  },
+  "test_sort_queue": {
+    "name": "Sort queue",
+    "points": 1
+  },
+  "test_string_and_structs": {
+    "name": "String and structs",
+    "points": 1
+  }
+}
